@@ -12,3 +12,4 @@ if re.search("[ ]", Password):
     print("Your password cannot have spaces.")
 else:
     print("Password succesfully created.")
+#Enter your password until it's valid. Enjoy!
