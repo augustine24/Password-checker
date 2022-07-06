@@ -1,1 +1,1 @@
-# Password-checker
+# Password-checker, is very self explanatory. Ever login to a website and wonder how it's coded to show you if your password is correct or not? This repository just shows how its done. Simply paste the code into https://www.online-python.com/online_python_compiler and enter a password.
