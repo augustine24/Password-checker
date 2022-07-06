@@ -10,6 +10,6 @@ if not re.search("[!@#$%^&*]", Password):
     print("Your password must include special characters.")
 if re.search("[ ]", Password):
     print("Your password cannot have spaces.")
-else:
+if re.search ("[A-Z]", Password) and re.search("[0-9]", Password) and re.search("[!@#$%^&*]", Password) and not re.search("[ ]", Password):
     print("Password succesfully created.")
 #Enter your password until it's valid. Enjoy!
